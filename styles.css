@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color:#777;
+  color: white;
+  padding: 1em;
+  display: flex;
+  gap: 1em;
+}
+nav button {
+  background: none;
+  border: none;
+  color: ;
+  cursor: pointer;
+  font-size: 1em;
+}
+.section {
+  display: none;
+  padding: 2em;
+}
+.active {
+  display: block;
+}
